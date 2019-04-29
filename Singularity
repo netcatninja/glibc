@@ -1,5 +1,5 @@
 BootStrap: docker
-From: ubuntu:18.04
+From: ubuntu:16.04
 
 %help
     Start with a newer version of glibc. 
